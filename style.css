@@ -1,4 +1,11 @@
 p{
     color: azure;
     background-color: black;
+    width: 50%;
+    height: 100px;
+    text-align: justify;
+    padding: 20px;
+}
+h1{
+    color: brown;
 }
